@@ -56,8 +56,8 @@ Structured implementations of core data structures with time complexity analysis
 
 ## 📫 Connect With Me
 
-LinkedIn: (Add your link)  
-Email: (Add your email)
+LinkedIn: www.linkedin.com/in/pralhad-chape-142a25250
+Email: chapepralhad0@gmail.com
 <!--
 **pralhadchape24/pralhadchape24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
