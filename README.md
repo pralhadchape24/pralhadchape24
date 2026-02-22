@@ -1,74 +1,85 @@
-## Hi there 👋
-# Pralhad Chape
+# Hello, I'm Pralhad Chape  
 
-🎓 Computer Engineering Student  
-💻 Backend & Software Developer  
-📍 India  
+Computer Engineering Student | AI & Backend Developer  
 
-I build practical software systems with clean architecture and strong fundamentals in data structures and problem solving.
+I am a Computer Engineering student at Vishwakarma Institute of Technology, Pune, with strong foundations in Data Structures, Backend Development, and AI-driven systems. I focus on building efficient, scalable, and problem-oriented software solutions.
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-- Strong foundation in C, C++, Python, and Java  
-- Experience in Web Development and Desktop Applications  
-- Built a Billing Management System using Python (Tkinter)  
-- Interested in Backend Development and System Design  
-
-Currently improving:
-- Data Structures & Algorithms
-- Backend development with databases
-- Writing clean, maintainable code
+🎓 B.Tech in Computer Engineering – VIT Pune (CGPA: 9.05)  
+🎓 Diploma in Computer Engineering – 94.63%  
+🌱 Interested in AI systems, IoT integration, and backend architectures  
+💡 Strong academic background in DSA, DBMS, OOP, and System Design  
+🎯 Seeking opportunities to apply AI and backend development in real-world systems  
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Technical Skills  
 
-**Programming Languages**  
-C | C++ | Python | Java  
+### 💻 Programming  
+C | C++ | Python | Java | JavaScript | SQL  
 
-**Web Technologies**  
-HTML | CSS | JavaScript  
+### 🌐 Web Technologies  
+HTML5 | CSS3 | REST APIs  
 
-**Tools & Technologies**  
-Git | GitHub | SQLite | VS Code  
+### ⚙ Frameworks & Libraries  
+React.js | Next.js | Node.js | Flask | Tkinter | FAISS  
 
----
+### 🗄 Databases  
+MySQL | MongoDB  
 
-## 📌 Featured Projects
-
-### 🔹 Billing Management System
-Desktop application built using Python Tkinter for managing customer records, product details, and generating invoices.
-
-### 🔹 Data Structures & Algorithms
-Structured implementations of core data structures with time complexity analysis and clean coding practices.
+### 🔧 Tools  
+Git | GitHub | VS Code  
 
 ---
 
-## 📈 Goals
+## 🚀 Projects  
 
-- Build production-level backend projects  
-- Contribute to open-source projects  
-- Secure a software development internship  
+### 🔹 AI-Driven Green Code Optimizer  
+AI-based system to analyze source code and detect energy-inefficient patterns.
+
+**Tech:** Python, Machine Learning, Flask  
+- Static code analysis for performance optimization  
+- Suggested improvements to reduce computational cost  
+- Modular architecture for multi-language adaptability  
 
 ---
 
-## 📫 Connect With Me
+### 🔹 AI-Based Predictive Motor Health Monitoring System  
+IoT-enabled predictive maintenance system for monitoring motor performance in real time.
 
-LinkedIn: www.linkedin.com/in/pralhad-chape-142a25250
-Email: chapepralhad0@gmail.com
-<!--
-**pralhadchape24/pralhadchape24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tech:** ESP8266 (NodeMCU), ADS1115, MQTT, Python, Machine Learning  
+- Real-time monitoring of voltage, current, temperature, vibration, RPM  
+- ML-based anomaly detection for fault prediction  
+- Web dashboard for visualization and remote monitoring  
+- Cloud-enabled preventive maintenance system  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Experience  
+
+### Web Development Intern – AphiDynamic IT Solutions  
+- Designed and deployed dynamic web applications  
+- Worked on scalable and user-friendly web solutions  
+
+### Web Development Intern – LaunchED Global  
+- Built responsive web applications  
+- Strengthened modern frontend & backend development skills  
+
+---
+
+## 📚 Coursework  
+
+Data Structures & Algorithms  
+Database Management Systems  
+Object-Oriented Programming  
+Microprocessors  
+
+---
+
+## 📫 Connect  
+
+📧 Email: chapepralhad0@gmail.com  
+🔗 LinkedIn: www.linkedin.com/in/pralhad-chape-142a25250  
