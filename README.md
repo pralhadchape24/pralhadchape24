@@ -120,6 +120,7 @@ An IoT-enabled predictive maintenance system that continuously monitors motor he
 - Operating Systems
 - Computer Networks
 - Microprocessors
+- Android Devlopment
 - Software Engineering
 
 ---
