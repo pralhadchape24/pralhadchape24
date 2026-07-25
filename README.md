@@ -1,8 +1,21 @@
-# Hi 👋, I'm Pralhad Chape
+<h1 align="center">Hi 👋, I'm Pralhad Chape</h1>
+<h3 align="center">Computer Engineering Student | AI & Backend Developer | Problem Solver</h3>
 
-### Computer Engineering Student | AI & Backend Developer | Problem Solver
+<p align="center">
+I am a <b>Computer Engineering student at Vishwakarma Institute of Technology (VIT), Pune</b>, passionate about building <b>AI-powered applications, backend systems, and scalable software solutions</b>. I enjoy solving real-world problems using machine learning, IoT, and modern web technologies while continuously improving my problem-solving and development skills.
+</p>
 
-I am a **Computer Engineering student at Vishwakarma Institute of Technology (VIT), Pune**, passionate about building **AI-powered applications, backend systems, and scalable software solutions**. I enjoy solving real-world problems using machine learning, IoT, and modern web technologies while continuously improving my problem-solving and development skills.
+<p align="center">
+  <a href="https://www.linkedin.com/in/pralhad-chape-142a25250" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chapepralhad0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/pralhadchape24" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -14,6 +27,7 @@ I am a **Computer Engineering student at Vishwakarma Institute of Technology (VI
 - 🌱 Currently learning Advanced DSA, Machine Learning, and Scalable Backend Systems
 - 🔍 Interested in AI Systems, IoT, Cloud Computing, and Software Engineering
 - 🎯 Looking for Software Development and AI Internship Opportunities
+- 📍 Based in Pune, Maharashtra, India
 
 ---
 
@@ -36,12 +50,14 @@ I am a **Computer Engineering student at Vishwakarma Institute of Technology (VI
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
 ### AI & Machine Learning
-- Machine Learning
-- Scikit-learn
-- Random Forest
-- FAISS
-- Pandas
-- NumPy
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+- Machine Learning · Random Forest · FAISS
+
+### IoT
+![ESP8266](https://img.shields.io/badge/NodeMCU_ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -54,17 +70,12 @@ I am a **Computer Engineering student at Vishwakarma Institute of Technology (VI
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🔹 AI-Driven Green Code Optimizer
-
+### 🔹 [AI-Driven Green Code Optimizer](https://github.com/pralhadchape24)
 An AI-powered system that analyzes source code and identifies energy-inefficient coding patterns to improve software efficiency.
 
-**Tech Stack**
-- Python
-- Flask
-- Machine Learning
-- Scikit-learn
+**Tech Stack:** Python · Flask · Machine Learning · Scikit-learn
 
 **Key Features**
 - Static code analysis
@@ -74,17 +85,10 @@ An AI-powered system that analyzes source code and identifies energy-inefficient
 
 ---
 
-## 🔹 AI-Based Predictive Motor Health Monitoring System
-
+### 🔹 [AI-Based Predictive Motor Health Monitoring System](https://github.com/pralhadchape24)
 An IoT-enabled predictive maintenance system that continuously monitors motor health using sensors and machine learning.
 
-**Tech Stack**
-- NodeMCU (ESP8266)
-- MQTT
-- ADS1115
-- Python
-- Machine Learning
-- Flask
+**Tech Stack:** NodeMCU (ESP8266) · MQTT · ADS1115 · Python · Machine Learning · Flask
 
 **Key Features**
 - Live monitoring of voltage, current, temperature, vibration, and RPM
@@ -94,18 +98,35 @@ An IoT-enabled predictive maintenance system that continuously monitors motor he
 
 ---
 
+### 🔹 [Smart Energy Consumption Tracker](https://github.com/pralhadchape24/Smart-Energy-Consumption-Tracker)
+A hybrid energy consumption tracker built with C++, Flask, and JavaScript.
+
+**Tech Stack:** C++ · Flask · JavaScript
+
+---
+
+### 🔹 [Fire and Smoke/Gas Alert System Using IoT](https://github.com/pralhadchape24/Fire-and-Smoke-Gas-Alert-System-Using-IOT)
+An IoT-based safety system that detects fire, smoke, and gas leaks and raises real-time alerts.
+
+**Tech Stack:** HTML · IoT Sensors
+
+---
+
+### 🔹 [Hotel and Lodging System – Desktop Application](https://github.com/pralhadchape24/Hotel-and-lodging-system-desktop-application)
+A desktop application for managing hotel and lodging operations.
+
+**Tech Stack:** Java
+
+---
+
 ## 💼 Experience
 
-### Web Development Intern
-**AphiDynamic IT Solutions**
-
+### Web Development Intern — AphiDynamic IT Solutions
 - Developed responsive web applications
 - Worked on backend integration
 - Improved UI and application performance
 
-### Web Development Intern
-**LaunchED Global**
-
+### Web Development Intern — LaunchED Global
 - Built responsive web interfaces
 - Collaborated on frontend and backend development
 - Gained experience with modern web technologies
@@ -120,18 +141,32 @@ An IoT-enabled predictive maintenance system that continuously monitors motor he
 - Operating Systems
 - Computer Networks
 - Microprocessors
-- Android Devlopment
+- Android Development
 - Software Engineering
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pralhadchape24&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pralhadchape24&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pralhadchape24&hide_border=true" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-📧 **Email:** **chapepralhad0@gmail.com**
+📧 **Email:** [chapepralhad0@gmail.com](mailto:chapepralhad0@gmail.com)
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/pralhad-chape-142a25250
+💼 **LinkedIn:** [pralhad-chape-142a25250](https://www.linkedin.com/in/pralhad-chape-142a25250)
+
+🐙 **GitHub:** [@pralhadchape24](https://github.com/pralhadchape24)
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+<p align="center">⭐ <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i></p>
