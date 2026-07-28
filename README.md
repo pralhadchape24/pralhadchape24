@@ -28,7 +28,6 @@ I'm a **Computer Engineering student at Vishwakarma Institute of Technology (VIT
 - 🌱 Currently deepening skills in Advanced DSA, Machine Learning, and Scalable Backend Systems
 - 🔍 Interested in AI Systems, IoT Security, Cloud Computing, and Software Engineering
 - 🎯 Open to Software Development and AI Internship Opportunities
-- ⚡ Fun fact: I like turning "this is inefficient" into a working optimization pipeline
 
 ---
 
@@ -125,19 +124,13 @@ I'm a **Computer Engineering student at Vishwakarma Institute of Technology (VIT
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pralhadchape24&show_icons=true&theme=dark&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&border_radius=8" />
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pralhadchape24&layout=compact&theme=dark&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&border_radius=8" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=pralhadchape24&show_icons=true&theme=dark&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&border_radius=8" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pralhadchape24&layout=compact&theme=dark&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&border_radius=8" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=pralhadchape24&theme=dark&background=0D1117&border=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=pralhadchape24&theme=dark&background=0D1117&border=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
 </p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pralhadchape24&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</p>
-
-<sub>ℹ️ These stat cards are rendered by free public services (github-readme-stats, streak-stats, github-profile-trophy). They occasionally go down or rate-limit when traffic spikes — if a card shows "Something went wrong" or doesn't load, it's a temporary outage on their end, not a broken README. If it persists for you, the most reliable long-term fix is deploying your own copy of <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> to your own free Vercel account and swapping the URL.</sub>
 
 ---
 
@@ -147,10 +140,6 @@ I'm a **Computer Engineering student at Vishwakarma Institute of Technology (VIT
 <a href="mailto:chapepralhad0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/pralhad-chape-142a25250"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/pralhadchape24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=pralhadchape24&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 </p>
 
 <div align="center">
