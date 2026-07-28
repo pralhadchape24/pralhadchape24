@@ -1,247 +1,152 @@
-<h1 align="center">Hi 👋, I'm Pralhad Chape</h1>
-<h3 align="center">Computer Engineering Student | AI & Backend Developer | Problem Solver</h3>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Pralhad%20Chape&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20|%20AI%20%26%20Backend%20Developer&descSize=18&descAlignY=55" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&background=00000000&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications;IoT+%26+Embedded+Systems+Enthusiast;Backend+%26+Full-Stack+Developer;Always+learning%2C+always+building" alt="Typing SVG" />
+</a>
+
+</div>
+
+---
+
+### 👋 About Me
+
+I'm a **Computer Engineering student at Vishwakarma Institute of Technology (VIT), Pune**, passionate about building **AI-powered applications, backend systems, and scalable software solutions**. I enjoy solving real-world problems using machine learning, IoT, and modern web technologies.
+
+- 🎓 B.Tech in Computer Engineering, VIT Pune — CGPA: **9.05**
+- 🎓 Diploma in Computer Engineering — **94.63%**
+- 💻 Focused on AI, Backend Development, and System Design
+- 🌱 Currently deepening skills in Advanced DSA, Machine Learning, and Scalable Backend Systems
+- 🔍 Interested in AI Systems, IoT Security, Cloud Computing, and Software Engineering
+- 🎯 Open to Software Development and AI Internship Opportunities
+- ⚡ Fun fact: I like turning "this is inefficient" into a working optimization pipeline
+
+---
+
+### 🛠️ Tech Stack
 
 <p align="center">
-I am a <b>Computer Engineering student at Vishwakarma Institute of Technology (VIT), Pune</b>, passionate about building <b>AI-powered applications, backend systems, and scalable software solutions</b>. I enjoy solving real-world problems using machine learning, IoT, and modern web technologies while continuously improving my problem-solving and development skills.
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,mysql,mongodb&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,flask,git,github,vscode&theme=dark" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pralhad-chape-142a25250" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:chapepralhad0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/pralhadchape24" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pralhadchape24&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/badge/Machine_Learning-8B5CF6?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white"/>
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🎓 B.Tech in Computer Engineering, VIT Pune (CGPA: **9.05**)
-- 🎓 Diploma in Computer Engineering (**94.63%**)
-- 💻 Passionate about AI, Backend Development, and System Design
-- 🌱 Currently learning Advanced DSA, Machine Learning, and Scalable Backend Systems
-- 🔍 Interested in AI Systems, IoT, Cloud Computing, and Software Engineering
-- 🎯 Looking for Software Development and AI Internship Opportunities
-- 📍 Based in Pune, Maharashtra, India
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Web & Backend
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![MERN](https://img.shields.io/badge/MERN_Stack-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### AI & Machine Learning
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-- Machine Learning · Random Forest · FAISS
-
-### IoT & Security
-![ESP8266](https://img.shields.io/badge/NodeMCU_ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-- ECC Cryptography · Digital Signatures · Anomaly Detection
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-
----
-
-## 🌟 Flagship Projects
+### 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [Green Code Optimizer](https://github.com/pralhadchape24/Green-Code-Optimizer-Using-Machine-Learning)
-**AI-driven code sustainability analyzer**
+**🤖 AI & Machine Learning**
 
-A full-stack web application that analyzes source code using software engineering metrics to evaluate code quality, performance, and sustainable software development practices — helping developers write more energy-efficient code.
-
-`Python` `Flask` `Machine Learning` `Scikit-learn`
-
-**Highlights**
-- Static code analysis engine
-- Energy-efficiency prediction model
-- Actionable optimization recommendations
-- Modular, multi-language architecture
+- **AegisAI** — AI-driven system for intelligent analysis & decision support
+- **AI-Driven Green Code Optimizer** — Detects energy-inefficient code patterns and recommends optimizations (Python, Flask, Scikit-learn)
+- **CodeLens** — AI-powered code analysis and insight tool
 
 </td>
 <td width="50%" valign="top">
 
-### ⚙️ [Predictive Maintenance of DC Motor using IoT and ML](https://github.com/pralhadchape24/Predictive-Maintainance-of-DC-motor-using-Iot-and-Machine-Learning)
-**AI-powered motor health monitoring**
+**🔐 IoT & Security**
 
-An IoT-enabled predictive maintenance system that continuously monitors motor health using sensors and machine learning to flag faults before they cause downtime.
-
-`NodeMCU (ESP8266)` `MQTT` `ADS1115` `Python` `Machine Learning` `Flask`
-
-**Highlights**
-- Live monitoring of voltage, current, temperature, vibration & RPM
-- ML-based predictive fault detection
-- Interactive real-time web dashboard
-- Preventive maintenance alerting
+- **ECC-Based IoT Authentication System** — Lightweight elliptic-curve cryptography auth for constrained IoT devices
+- **AI-Based Predictive Motor Health Monitoring System** — Real-time sensor monitoring (voltage, current, vibration, RPM) with ML-based fault prediction (NodeMCU, MQTT, ADS1115)
+- **Fire and Smoke/Gas Alert System Using IoT**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔐 [ECC-Based Authentication System for IoT Devices](https://github.com/pralhadchape24/ECC-Based-Authentication-System-for-IoT-Devices-with-Real-Time-Monitoring-and-Anomaly-Detection)
-**Secure IoT device authentication with anomaly detection**
+**🌐 Full-Stack & Mobile**
 
-A secure IoT authentication system enabling device registration, cryptographic key generation, digital signature verification, and authenticated communication between IoT devices and a server, backed by real-time monitoring and anomaly detection.
-
-`Flask` `SQLite` `ESP8266` `ECC Cryptography`
-
-**Highlights**
-- Elliptic Curve Cryptography-based device auth
-- Digital signature verification pipeline
-- Real-time anomaly detection
-- End-to-end secure device-server communication
+- **BlogSphere** — Full-stack blogging platform
+- **Snapbudget** — Personal finance / budget tracking app
+- **Hotel and Lodging System** — Java desktop application for hotel management
+- **Smart Energy Consumption Tracker** — Hybrid tracker built with C++, Flask, and JavaScript
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ [AegisAI](https://github.com/pralhadchape24/AegisAI)
-**AI risk governance platform for banking**
+**🧮 Systems & Data Structures**
 
-A full-stack AI risk governance platform for banking that monitors ML models and LLMs, computes unified risk scores, enforces governance policies, and visualizes AI risk through an interactive dashboard.
-
-`Python`
-
-**Highlights**
-- Unified AI/ML & LLM risk scoring engine
-- Automated governance policy enforcement
-- Real-time model monitoring
-- Interactive risk visualization dashboard
+- **Dsa-Assignment** — Core data structures & algorithms implementations
+- Systems-level projects exploring performance, memory, and efficiency trade-offs
 
 </td>
 </tr>
 </table>
 
----
-
-## 📂 More Projects
-
-### 🌐 Full-Stack & Mobile
-
-**[BlogSphere](https://github.com/pralhadchape24/BlogSphere)** — `MERN Stack`
-A full-stack MERN blogging platform enabling secure authentication, blog publishing, editing, category management, and content management through a responsive interface.
-
-**[Snapbudget OCR](https://github.com/pralhadchape24/Snapbudget-OCR)** — `Kotlin`
-An Android expense management app that uses OCR to scan receipts, automatically extract transaction details, categorize expenses, and manage personal finances.
-
-**[Hotel and Lodging System – Desktop Application](https://github.com/pralhadchape24/Hotel-and-lodging-system-desktop-application)** — `Java`
-A desktop application for managing hotel and lodging operations.
-
-### 🔎 AI & Analysis Tools
-
-**[CodeLens Code Analyzer](https://github.com/pralhadchape24/CodeLens-Code-Analyzer)** — `CSS`
-A Data Structures project that analyzes source code, visualizes syntax structures, prioritizes issues, and presents code quality metrics through an interactive web interface.
-
-### 📡 IoT & Embedded Systems
-
-**[Fire and Smoke/Gas Alert System Using IoT](https://github.com/pralhadchape24/Fire-and-Smoke-Gas-Alert-System-Using-IOT)** — `HTML`
-An IoT-based safety system that detects fire, smoke, and gas leaks and raises real-time alerts.
-
-**[Smart Energy Consumption Tracker](https://github.com/pralhadchape24/Smart-Energy-Consumption-Tracker)** — `C++`
-A hybrid energy consumption tracker built with C++, Flask, and JavaScript.
-
-### 🧮 Systems & Data Structures
-
-**[OS CPU Scheduling Simulator](https://github.com/pralhadchape24/OS-CPU-Scheduling-Simulator)** — `C++`
-A C++ implementation of Operating System CPU scheduling concepts, featuring two project phases simulating process scheduling, execution, and performance analysis.
-
-**[Linked List Desktop Application](https://github.com/pralhadchape24/linked-list-desktop-application)** — `C++ (Qt)`
-A Qt-based C++ application that visualizes linked list operations through an interactive graphical interface, demonstrating core data structure concepts using OOP.
+> 📌 Check out [all my repositories](https://github.com/pralhadchape24?tab=repositories) for the full list and source code.
 
 ---
 
-## 💼 Experience
+### 💼 Experience
 
-### Web Development Intern — AphiDynamic IT Solutions
+**Web Development Intern — AphiDynamic IT Solutions**
 - Developed responsive web applications
 - Worked on backend integration
 - Improved UI and application performance
 
-### Web Development Intern — LaunchED Global
+**Web Development Intern — LaunchED Global**
 - Built responsive web interfaces
 - Collaborated on frontend and backend development
 - Gained experience with modern web technologies
 
 ---
 
-## 📚 Relevant Coursework
+### 📚 Relevant Coursework
 
-- Data Structures & Algorithms
-- Database Management Systems
-- Object-Oriented Programming
-- Operating Systems
-- Computer Networks
-- Microprocessors
-- Android Development
-- Software Engineering
+`Data Structures & Algorithms` `Database Management Systems` `Object-Oriented Programming` `Operating Systems` `Computer Networks` `Microprocessors` `Android Development` `Software Engineering`
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pralhadchape24&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pralhadchape24&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pralhadchape24&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pralhadchape24&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=8B5CF6&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pralhadchape24&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pralhadchape24&theme=radical&background=0D1117&border=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pralhadchape24&theme=minimal&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pralhadchape24&theme=react-dark&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=ffffff&hide_border=true" width="95%"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=pralhadchape24&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+### 📫 Connect With Me
 
-📧 **Email:** [chapepralhad0@gmail.com](mailto:chapepralhad0@gmail.com)
+<p align="center">
+<a href="mailto:chapepralhad0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pralhad-chape-142a25250"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/pralhadchape24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-💼 **LinkedIn:** [pralhad-chape-142a25250](https://www.linkedin.com/in/pralhad-chape-142a25250)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=pralhadchape24&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
+</p>
 
-🐙 **GitHub:** [@pralhadchape24](https://github.com/pralhadchape24)
+<div align="center">
 
----
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
 
-<p align="center">⭐ <i>Thanks for visiting my profile! Feel free to explore my repositories and connect with me.</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
+
+</div>
