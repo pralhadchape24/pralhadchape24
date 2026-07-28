@@ -1,16 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Pralhad%20Chape&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20|%20AI%20%26%20Backend%20Developer&descSize=18&descAlignY=55" width="100%"/>
+# Hi, I'm Pralhad Chape 👋
+
+### Computer Engineering Student · AI & Backend Developer · Problem Solver
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&background=00000000&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications;IoT+%26+Embedded+Systems+Enthusiast;Backend+%26+Full-Stack+Developer;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
 
+<p>
+<a href="mailto:chapepralhad0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pralhad-chape-142a25250"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/pralhadchape24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
 </div>
 
 ---
 
-### 👋 About Me
+## 👋 About Me
 
 I'm a **Computer Engineering student at Vishwakarma Institute of Technology (VIT), Pune**, passionate about building **AI-powered applications, backend systems, and scalable software solutions**. I enjoy solving real-world problems using machine learning, IoT, and modern web technologies.
 
@@ -24,73 +32,77 @@ I'm a **Computer Engineering student at Vishwakarma Institute of Technology (VIT
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,mysql,mongodb&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,flask,git,github,vscode&theme=dark" />
-</p>
+**Languages**
 
-<p align="center">
-<img src="https://img.shields.io/badge/Machine_Learning-8B5CF6?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge&logo=meta&logoColor=white"/>
-</p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+**Web & Backend**
 
-### 🚀 Featured Projects
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**AI & Machine Learning**
 
-**🤖 AI & Machine Learning**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-4B0082?style=for-the-badge)
 
-- **AegisAI** — AI-driven system for intelligent analysis & decision support
-- **AI-Driven Green Code Optimizer** — Detects energy-inefficient code patterns and recommends optimizations (Python, Flask, Scikit-learn)
-- **CodeLens** — AI-powered code analysis and insight tool
+**Databases & Tools**
 
-</td>
-<td width="50%" valign="top">
-
-**🔐 IoT & Security**
-
-- **ECC-Based IoT Authentication System** — Lightweight elliptic-curve cryptography auth for constrained IoT devices
-- **AI-Based Predictive Motor Health Monitoring System** — Real-time sensor monitoring (voltage, current, vibration, RPM) with ML-based fault prediction (NodeMCU, MQTT, ADS1115)
-- **Fire and Smoke/Gas Alert System Using IoT**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🌐 Full-Stack & Mobile**
-
-- **BlogSphere** — Full-stack blogging platform
-- **Snapbudget** — Personal finance / budget tracking app
-- **Hotel and Lodging System** — Java desktop application for hotel management
-- **Smart Energy Consumption Tracker** — Hybrid tracker built with C++, Flask, and JavaScript
-
-</td>
-<td width="50%" valign="top">
-
-**🧮 Systems & Data Structures**
-
-- **Dsa-Assignment** — Core data structures & algorithms implementations
-- Systems-level projects exploring performance, memory, and efficiency trade-offs
-
-</td>
-</tr>
-</table>
-
-> 📌 Check out [all my repositories](https://github.com/pralhadchape24?tab=repositories) for the full list and source code.
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 💼 Experience
+## 🚀 Featured Projects
+
+### 🤖 AI & Machine Learning
+| Project | Description | Stack |
+|---|---|---|
+| **AegisAI** | AI-driven system for intelligent analysis & decision support | Python, ML |
+| **AI-Driven Green Code Optimizer** | Detects energy-inefficient code patterns and recommends optimizations | Python, Flask, Scikit-learn |
+| **CodeLens** | AI-powered code analysis and insight tool | Python |
+
+### 🔐 IoT & Security
+| Project | Description | Stack |
+|---|---|---|
+| **ECC-Based IoT Authentication System** | Lightweight elliptic-curve cryptography auth for constrained IoT devices | Python/C, Cryptography |
+| **AI-Based Predictive Motor Health Monitoring System** | Real-time sensor monitoring (voltage, current, vibration, RPM) with ML fault prediction | NodeMCU, MQTT, ADS1115, Flask |
+| **Fire and Smoke/Gas Alert System Using IoT** | Real-time hazard detection and alerting | IoT, HTML |
+
+### 🌐 Full-Stack & Mobile
+| Project | Description | Stack |
+|---|---|---|
+| **BlogSphere** | Full-stack blogging platform | MERN/Flask |
+| **Snapbudget** | Personal finance / budget tracking app | Full-stack |
+| **Hotel and Lodging System** | Desktop application for hotel management | Java |
+| **Smart Energy Consumption Tracker** | Hybrid energy consumption tracker | C++, Flask, JavaScript |
+
+### 🧮 Systems & Data Structures
+| Project | Description | Stack |
+|---|---|---|
+| **Dsa-Assignment** | Core data structures & algorithms implementations | C++/Java |
+
+> 📌 Full source code and more projects: **[github.com/pralhadchape24?tab=repositories](https://github.com/pralhadchape24?tab=repositories)**
+
+---
+
+## 💼 Experience
 
 **Web Development Intern — AphiDynamic IT Solutions**
 - Developed responsive web applications
@@ -104,34 +116,32 @@ I'm a **Computer Engineering student at Vishwakarma Institute of Technology (VIT
 
 ---
 
-### 📚 Relevant Coursework
+## 📚 Relevant Coursework
 
 `Data Structures & Algorithms` `Database Management Systems` `Object-Oriented Programming` `Operating Systems` `Computer Networks` `Microprocessors` `Android Development` `Software Engineering`
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pralhadchape24&show_icons=true&theme=radical&bg_color=0d1117&hide_border=true&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pralhadchape24&layout=compact&theme=radical&bg_color=0d1117&hide_border=true&title_color=8B5CF6&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pralhadchape24&show_icons=true&theme=dark&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&border_radius=8" />
+<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pralhadchape24&layout=compact&theme=dark&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&border_radius=8" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pralhadchape24&theme=radical&background=0D1117&border=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+<img src="https://streak-stats.demolab.com/?user=pralhadchape24&theme=dark&background=0D1117&border=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pralhadchape24&theme=react-dark&bg_color=0d1117&color=8B5CF6&line=8B5CF6&point=ffffff&hide_border=true" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=pralhadchape24&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1" />
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pralhadchape24&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" />
-</p>
+<sub>ℹ️ These stat cards are rendered by free public services (github-readme-stats, streak-stats, github-profile-trophy). They occasionally go down or rate-limit when traffic spikes — if a card shows "Something went wrong" or doesn't load, it's a temporary outage on their end, not a broken README. If it persists for you, the most reliable long-term fix is deploying your own copy of <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> to your own free Vercel account and swapping the URL.</sub>
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="center">
 <a href="mailto:chapepralhad0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -146,7 +156,5 @@ I'm a **Computer Engineering student at Vishwakarma Institute of Technology (VIT
 <div align="center">
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=100&section=footer" width="100%"/>
 
 </div>
