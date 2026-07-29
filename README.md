@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Pralhad Chape 👋
+# Hi, I'm Pralhad Chape 👋 
 
 ### Computer Engineering Student · AI & Backend Developer · Problem Solver
 
