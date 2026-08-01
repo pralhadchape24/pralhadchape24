@@ -3,7 +3,7 @@
 # Hi, I'm Pralhad Chape 👋  
 
 ### Computer Engineering Student · AI & Backend Developer · Problem Solver
-
+ 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&background=00000000&center=true&vCenter=true&width=600&lines=Building+AI-powered+applications;IoT+%26+Embedded+Systems+Enthusiast;Backend+%26+Full-Stack+Developer;Always+learning%2C+always+building" alt="Typing SVG" />
 </a>
