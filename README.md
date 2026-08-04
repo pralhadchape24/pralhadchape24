@@ -71,7 +71,7 @@ I'm a **Computer Engineering student at Vishwakarma Institute of Technology (VIT
 ## 🚀 Featured Projects
 
 ### 🤖 AI & Machine Learning
-| Project | Description | Stack |
+| Project | Description | Stack | 
 |---|---|---|
 | **AegisAI** | AI-driven system for intelligent analysis & decision support | Python, ML |
 | **AI-Driven Green Code Optimizer** | Detects energy-inefficient code patterns and recommends optimizations | Python, Flask, Scikit-learn |
