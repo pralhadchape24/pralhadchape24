@@ -19,7 +19,7 @@
 ---
 
 ## 👋 About Me
-
+ 
 I'm a **Computer Engineering student at Vishwakarma Institute of Technology (VIT), Pune**, passionate about building **AI-powered applications, backend systems, and scalable software solutions**. I enjoy solving real-world problems using machine learning, IoT, and modern web technologies.
 
 - 🎓 B.Tech in Computer Engineering, VIT Pune — CGPA: **9.05**
