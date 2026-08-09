@@ -78,7 +78,7 @@ I'm a **Computer Engineering student at Vishwakarma Institute of Technology (VIT
 | **CodeLens** | AI-powered code analysis and insight tool | Python |
 
 ### 🔐 IoT & Security
-| Project | Description | Stack |
+| Project | Description | Stack | 
 |---|---|---|
 | **ECC-Based IoT Authentication System** | Lightweight elliptic-curve cryptography auth for constrained IoT devices | Python/C, Cryptography |
 | **AI-Based Predictive Motor Health Monitoring System** | Real-time sensor monitoring (voltage, current, vibration, RPM) with ML fault prediction | NodeMCU, MQTT, ADS1115, Flask |
