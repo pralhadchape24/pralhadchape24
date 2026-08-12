@@ -109,7 +109,7 @@ I'm a **Computer Engineering student at Vishwakarma Institute of Technology (VIT
 - Improved UI and application performance
 
 **Web Development Intern — LaunchED Global**
-- Built responsive web interfaces
+- Built responsive web interfaces 
 - Collaborated on frontend and backend development
 - Gained experience with modern web technologies
 
