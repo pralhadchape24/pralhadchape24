@@ -131,13 +131,13 @@ I'm a **Computer Engineering student at Vishwakarma Institute of Technology (VIT
 <p align="center">
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=pralhadchape24&theme=dark&background=0D1117&border=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
 </p>
-
+ 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-<a href="mailto:chapepralhad0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:chapepralhad0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 <a href="https://www.linkedin.com/in/pralhad-chape-142a25250"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <a href="https://github.com/pralhadchape24"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
