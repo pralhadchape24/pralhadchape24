@@ -135,7 +135,7 @@ I'm a **Computer Engineering student at Vishwakarma Institute of Technology (VIT
 ---
 
 ## 📫 Connect With Me
-
+ 
 <p align="center">
 <a href="mailto:chapepralhad0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 <a href="https://www.linkedin.com/in/pralhad-chape-142a25250"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
@@ -143,7 +143,7 @@ I'm a **Computer Engineering student at Vishwakarma Institute of Technology (VIT
 </p>
 
 <div align="center">
-
+ 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
 
 </div>
