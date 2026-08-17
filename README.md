@@ -125,7 +125,7 @@ I'm a **Computer Engineering student at Vishwakarma Institute of Technology (VIT
 
 <p align="center">
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=pralhadchape24&show_icons=true&theme=dark&bg_color=0d1117&title_color=8B5CF6&icon_color=8B5CF6&text_color=c9d1d9&border_radius=8" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pralhadchape24&layout=compact&theme=dark&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&border_radius=8" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/? username=pralhadchape24&layout=compact&theme=dark&bg_color=0d1117&title_color=8B5CF6&text_color=c9d1d9&border_radius=8" />
 </p>
 
 <p align="center">
