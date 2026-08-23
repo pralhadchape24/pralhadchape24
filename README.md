@@ -129,7 +129,7 @@ I'm a **Computer Engineering student at Vishwakarma Institute of Technology (VIT
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=pralhadchape24&theme=dark&background=0D1117&border=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/? user=pralhadchape24&theme=dark&background=0D1117&border=0D1117&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" />
 </p>
  
 ---
