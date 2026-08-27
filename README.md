@@ -144,6 +144,6 @@ I'm a **Computer Engineering student at Vishwakarma Institute of Technology (VIT
 
 <div align="center">
  
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*  
 
 </div>
