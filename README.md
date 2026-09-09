@@ -98,7 +98,7 @@ I enjoy taking a problem from an idea to a working implementation — designing 
 
 ## ⚙️ IoT, Embedded Systems & Security
 
-| Project                                         | What it does                                                                                         | Technologies                         |
+| Project                                         | What it does                                                                                          | Technologies                         |
 | ----------------------------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------ |
 | **AI-Based Predictive Motor Health Monitoring** | Collects real-time motor parameters and uses ML to identify potential abnormal operating conditions. | ESP/NodeMCU, MQTT, Python, Flask, ML |
 | **ECC-Based IoT Authentication System**         | Explores lightweight elliptic-curve cryptography for authentication in constrained IoT environments. | Python, C, Cryptography              |
