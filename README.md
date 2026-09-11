@@ -18,7 +18,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+AI-powered+applications;Designing+backend+systems;Exploring+Machine+Learning+%26+IoT;Solving+problems+with+code;Always+learning%2C+always+building" />
 
-</div>
+</div> 
 
 ---
 
