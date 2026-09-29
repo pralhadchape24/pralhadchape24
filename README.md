@@ -227,7 +227,7 @@ I'm interested in connecting with developers, researchers, students, and profess
 
 <a href="mailto:chapepralhad0@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</a> 
 
 <a href="https://www.linkedin.com/in/pralhad-chape-142a25250">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
