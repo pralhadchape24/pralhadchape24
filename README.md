@@ -210,7 +210,7 @@ Topics include:
 # 🌱 Currently Learning
 
 * Advanced DSA & Competitive Programming
-* Machine Learning & Model Deployment
+* Machine Learning & Model Deployment 
 * Backend Architecture
 * API Design
 * Scalable Systems
